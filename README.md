@@ -9,13 +9,4 @@ Color Detection using numpy, opencv in Python. The detected color is being maske
 
 <img src="/RED_OUTPUT.jpg" alt="img1"/>
 
-## Input
 
-The input images are :
-
-
-<img src="/BLUE_INPUT.jpg" alt="img1"/>
-
-<img src="/PARROT_INPUT.jpg" alt="img1"/>
-
-<img src="/RED_INPUT.jpg" alt="img1"/>
